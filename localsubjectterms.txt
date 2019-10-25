@@ -1,2 +1,273 @@
-subject terms to index
-oneperline
+ablative
+absolutive
+abstract noun
+abstract nouns
+additive
+adjectives
+adjectivizer
+adverbial clauses
+adverbial clause
+adverbializer
+degree adverbs
+degree adverb
+manner adverb
+manner adverbs
+spatial adverb
+spatial adverbs
+temporal adverb
+temporal adverbs
+affective verb
+affective verbs
+agent
+closest conjunct agreement
+deviant agreement
+agreement prefixes
+agreement prefix
+gender agreement
+person agreement
+analytic verb forms
+analytic verb form
+antipassive
+apposition
+perfective aspect
+imperfective aspect
+assimilation
+backward control
+bivalent verbs
+bivalent verb
+grammatical case
+grammatical cases
+spatial case
+spatial cases
+causative
+causative constructions
+causative construction
+clause union
+cleft
+cognition predicates
+cognition predicate
+comitative
+comparative constructions
+comparative construction
+complementation
+complement-taking predicates
+complement-taking predicate
+compound verbs
+compound verb
+compounding
+concessive
+conditional
+conditional clauses
+conditional clause
+conjunctions
+conjunction
+consonants
+distribution of consonants
+inventory of consonants
+constituent focus
+constituent order
+content questions
+content question
+contrastive focus
+agreement controller
+imperfective converb
+perfective converb
+coordination
+copula
+existential copula
+locational copula
+coreference
+counterfactual
+cross-categorical suffixes
+cross-categorical suffix
+dative
+degemination
+delabialization
+demonstrative pronouns
+demonstrative pronoun
+derivation
+dislocation
+ejectives
+ejective
+embedded question marker
+enclitic
+temporal enclitic
+modal enclitic
+additive enclitic
+epenthetic vowels 
+epenthetic vowel
+episthemic modality
+equative constructions
+equative construction
+ergative
+experiencer
+experiential
+experiential past
+extended intransitive verbs
+extended intransitive verb
+extended transitive verbs
+extended transitive verb
+finiteness
+floating modifiers
+floating modifier
+focus-sensitive particles
+focus-sensitive particle
+forward control
+germination
+geminate consonants
+geminate consonant
+gender
+genitive
+glide insertion
+glottal stop insertion
+goal
+grammatical roles
+grammatical role
+headless relative clauses
+headless relative clause
+hearsay evidentiality
+ideophone
+imperative
+imperfective aspect
+indefinite pronouns
+indefinite pronoun
+infinitive
+information structure
+insubordination
+interjections
+interjection
+interrogative clauses
+interrogative clause
+intransitive verbs
+intransitive verb
+involuntary agent construction
+involuntary agent constructions
+juxtaposition
+labialization
+labile verbs
+labile verb
+light verbs
+light verb
+manipulative verbs
+manipulative verb
+masdar
+microtoponym
+mirative
+modal interrogative
+modal interrogatives
+modal verbs
+modal verb
+monovalent verbs
+monovalent verb
+negation
+nominalizer
+noun phrase
+nouns
+number
+cardinal numeral
+cardinal numerals
+collective numeral
+collective numerals
+group numeral
+group numerals
+multiplicative numeral
+multiplicative numerals
+ordinal numeral
+ordinal numerals
+direct object
+indirect object
+oblique stem
+optative
+orthography
+palatalization
+parentheticals
+participle
+participles
+locative participle
+locative participles
+modal participle
+modal participles
+preterite participle
+preterite participles
+particles
+particle
+predicate particle
+predicate particles
+partitive construction
+partitive constructions
+past tense
+habitual past
+patient
+pause filler
+perfective aspect
+periphrastic verb forms
+periphrastic verb form
+pharyngealization
+phasal verbs
+phasal verb
+phonology
+pluperfect
+disjunctive polar question
+simple polar question
+possession
+non-spatial postposition
+non-spatial postpositions
+spatial postposition
+spatial postpositions
+present tense
+habitual present
+preverb
+preverbs
+prohibitive
+purposive clauses
+purposive clause
+quantifier
+questions
+quotative
+recipient
+reciprocal constructions
+reciprocal construction
+reciprocal pronouns
+reciprocal pronoun
+reduplication
+reflexive constructions
+reflexive construction
+reflexive pronouns
+reflexive pronoun
+local reflexivization
+long-distance reflexivization
+relative clause
+relative clauses
+reported speech
+resultative
+simple clauses
+simple clause
+standard of comparison
+stimulus
+stress
+subjunctive
+subordinate questions
+subordinate question
+syllable structure
+tag questions
+tag question
+agreement target
+tense consonant
+theme
+three-place verbs 
+three-place verb
+transitive verbs
+transitive verb
+trivalent verbs
+trivalent verb
+two-place verbs
+two-place verb
+utterance verbs
+utterance verb
+valency classes
+valency class
+vocative
+vowel deletion
+vowel mutation
+inventory of vowels
+word order
