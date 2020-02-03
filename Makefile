@@ -26,6 +26,89 @@ main.snd: main.bbl
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.sdx # ordering of references to footnotes
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.adx
 	sed -i 's/hyperindexformat{\\\(infn {[0-9]*\)}/\1/' main.ldx
+	sed -i -e 's/indexentry {additive enclitic/indexentry {enclitic!additive/g' main.sdx
+	sed -i -e 's/indexentry {adverbial clause/indexentry {clause!adverbial/g' main.sdx
+	sed -i -e 's/indexentry {affective verb/indexentry {verb!affective/g' main.sdx
+	sed -i -e 's/indexentry {analytic verb form/indexentry {verb!analytic form/g' main.sdx
+	sed -i -e 's/indexentry {backward control/indexentry {control!backward/g' main.sdx
+	sed -i -e 's/indexentry {bivalent verbs/indexentry {verb!bivalent/g' main.sdx
+	sed -i -e 's/indexentry {cardinal numerals/indexentry {numerals!cardinal/g' main.sdx
+	sed -i -e 's/indexentry {causative construction/indexentry {construction!causative/g' main.sdx
+	sed -i -e 's/indexentry {closest conjunct agreement/indexentry {agreement!closest conjunct/g' main.sdx
+	sed -i -e 's/indexentry {cognition predicates/indexentry {predicate!cognition/g' main.sdx
+	sed -i -e 's/indexentry {collective numerals/indexentry {numerals!collective/g' main.sdx
+	sed -i -e 's/indexentry {comparative construction/indexentry {construction!comparative/g' main.sdx
+	sed -i -e 's/indexentry {comparative constructions/indexentry {construction!comparative/g' main.sdx
+	sed -i -e 's/indexentry {complement-taking predicate/indexentry {predicate!complement-taking/g' main.sdx
+	sed -i -e 's/indexentry {compound verb/indexentry {verb!compound/g' main.sdx
+	sed -i -e 's/indexentry {conditional clause/indexentry {clause!conditional/g' main.sdx
+	sed -i -e 's/indexentry {consonants/indexentry {consonant/g' main.sdx
+	sed -i -e 's/indexentry {content question/indexentry {questions!content/g' main.sdx
+	sed -i -e 's/indexentry {degree adverb/indexentry {adverb!degree/g' main.sdx
+	sed -i -e 's/indexentry {demonstrative pronoun/indexentry {pronoun!demonstrative/g' main.sdx
+	sed -i -e 's/indexentry {demonstrative pronouns/indexentry {demonstrative pronoun/g' main.sdx
+	sed -i -e 's/indexentry {deviant agreement/indexentry {agreement!deviant/g' main.sdx
+	sed -i -e 's/indexentry {direct object/indexentry {object!direct/g' main.sdx
+	sed -i -e 's/indexentry {distribution of consonants/indexentry {consonant!distribution of/g' main.sdx
+	sed -i -e 's/indexentry {embedded question marker/indexentry {questions!embedded marker/g' main.sdx
+	sed -i -e 's/indexentry {equative constructions/indexentry {construction!equative/g' main.sdx
+	sed -i -e 's/indexentry {existential copula/indexentry {copula!existential/g' main.sdx
+	sed -i -e 's/indexentry {experiential past/indexentry {past!experiential/g' main.sdx
+	sed -i -e 's/indexentry {forward control/indexentry {control!forward/g' main.sdx
+	sed -i -e 's/indexentry {geminate consonant/indexentry {consonant!geminate/g' main.sdx
+	sed -i -e 's/indexentry {glide insertion/indexentry {insertion!glide/g' main.sdx
+	sed -i -e 's/indexentry {glottal stop insertion/indexentry {insertion!glottal stop/g' main.sdx
+	sed -i -e 's/indexentry {group numeral/indexentry {numerals!group/g' main.sdx
+	sed -i -e 's/indexentry {habitual past/indexentry {past!habitual/g' main.sdx
+	sed -i -e 's/indexentry {imperfective aspect/indexentry {aspect!imperfective/g' main.sdx
+	sed -i -e 's/indexentry {imperfective converb/indexentry {converb!imperfective/g' main.sdx
+	sed -i -e 's/indexentry {indefinite pronoun/indexentry {pronoun!indefinite/g' main.sdx
+	sed -i -e 's/indexentry {indirect object/indexentry {object!indirect/g' main.sdx
+	sed -i -e 's/indexentry {interrogative clause/indexentry {clause!interrogative/g' main.sdx
+	sed -i -e 's/indexentry {intransitive verb/indexentry {verb!intransitive/g' main.sdx
+	sed -i -e 's/indexentry {involuntary agent construction/indexentry {construction!involuntary agent/g' main.sdx
+	sed -i -e 's/indexentry {labile verbs/indexentry {verb!labile/g' main.sdx
+	sed -i -e 's/indexentry {light verb/indexentry {verb!light/g' main.sdx
+	sed -i -e 's/indexentry {local reflexivization/indexentry {reflexivization!local/g' main.sdx
+	sed -i -e 's/indexentry {locational copula/indexentry {copula!locational/g' main.sdx
+	sed -i -e 's/indexentry {locative participle/indexentry {participle!locative/g' main.sdx
+	sed -i -e 's/indexentry {locative participle/indexentry {participle!locative/g' main.sdx
+	sed -i -e 's/indexentry {long-distance reflexivization/indexentry {reflexivization!long-distance/g' main.sdx
+	sed -i -e 's/indexentry {manipulative verbs/indexentry {verb!manipulative/g' main.sdx
+	sed -i -e 's/indexentry {manner adverbs/indexentry {adverb!manner/g' main.sdx
+	sed -i -e 's/indexentry {modal enclitic/indexentry {enclitic!modal/g' main.sdx
+	sed -i -e 's/indexentry {modal participle/indexentry {participle!modal/g' main.sdx
+	sed -i -e 's/indexentry {modal verb/indexentry {verb!modal/g' main.sdx
+	sed -i -e 's/indexentry {monovalent verb/indexentry {verb!monovalent/g' main.sdx
+	sed -i -e 's/indexentry {multiplicative numerals/indexentry {numerals!multiplicative/g' main.sdx
+	sed -i -e 's/indexentry {ordinal numerals/indexentry {numerals!ordinal/g' main.sdx
+	sed -i -e 's/indexentry {partitive construction/indexentry {construction!partitive/g' main.sdx
+	sed -i -e 's/indexentry {past tense/indexentry {tense!past/g' main.sdx
+	sed -i -e 's/indexentry {perfective aspect/indexentry {aspect!perfective/g' main.sdx
+	sed -i -e 's/indexentry {perfective converb/indexentry {converb!perfective/g' main.sdx
+	sed -i -e 's/indexentry {periphrastic verb form/indexentry {verb!periphrastic form/g' main.sdx
+	sed -i -e 's/indexentry {person agreement/indexentry {agreement!person/g' main.sdx
+	sed -i -e 's/indexentry {phasal verbs/indexentry {verb!phasal/g' main.sdx
+	sed -i -e 's/indexentry {present tense/indexentry {tense!present/g' main.sdx
+	sed -i -e 's/indexentry {preterite participle/indexentry {participle!preterite/g' main.sdx
+	sed -i -e 's/indexentry {purposive clauses/indexentry {clause!purposive/g' main.sdx
+	sed -i -e 's/indexentry {reciprocal constructions/indexentry {construction!reciprocal/g' main.sdx
+	sed -i -e 's/indexentry {reciprocal pronoun/indexentry {pronoun!reciprocal/g' main.sdx
+	sed -i -e 's/indexentry {reflexive construction/indexentry {construction!reflexive/g' main.sdx
+	sed -i -e 's/indexentry {reflexive pronoun/indexentry {pronoun!reflexive/g' main.sdx
+	sed -i -e 's/indexentry {relative clause/indexentry {clause!relative/g' main.sdx
+	sed -i -e 's/indexentry {simple clause/indexentry {clause!simple/g' main.sdx
+	sed -i -e 's/indexentry {spatial adverb/indexentry {adverb!spatial/g' main.sdx
+	sed -i -e 's/indexentry {tag question/indexentry {questions!tag/g' main.sdx
+	sed -i -e 's/indexentry {temporal adverb/indexentry {adverb!temporal/g' main.sdx
+	sed -i -e 's/indexentry {temporal enclitic/indexentry {enclitic!temporal/g' main.sdx
+	sed -i -e 's/indexentry {tense consonant/indexentry {consonant!tense/g' main.sdx
+	sed -i -e 's/indexentry {three-place verbs/indexentry {verb!three-place/g' main.sdx
+	sed -i -e 's/indexentry {transitive verb/indexentry {verb!transitive/g' main.sdx
+	sed -i -e 's/indexentry {trivalent verb/indexentry {verb!trivalent/g' main.sdx
+	sed -i -e 's/indexentry {two-place verb/indexentry {verb!two-place/g' main.sdx
+	sed -i -e 's/indexentry {utterance verb/indexentry {verb!utterance/g' main.sdx
+
 	python3 fixindex.py
 	mv mainmod.adx main.adx
 	makeindex -o main.and main.adx
