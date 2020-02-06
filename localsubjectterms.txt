@@ -162,7 +162,6 @@ monovalent verb
 negation
 nominalizer
 noun phrase
-nouns
 number
 cardinal numeral
 cardinal numerals
