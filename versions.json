@@ -1,8 +1,1 @@
-{"versions": [{"versiontype": "proofreading",
-		"title": "A Grammar of Sanzhi Dargwa",
-		"authors": [{"name": "Diana Forker"}],
-	"license": "CC-BY-4.0",
-	"DOI": "10.5281/zenodo.3339225",
-	"publishedAt": "2019-07-23T11:16:21.000Z"}
-	]
-}
+{"versions": [{"DOI": "10.5281/zenodo.3339225", "license": "CC-BY-4.0", "title": "A Grammar of Sanzhi Dargwa", "versiontype": "proofreading", "publishedAt": "2019-07-23T11:16:21.000Z", "authors": [{"name": "Diana Forker"}]}, {"DOI": "10.5281/zenodo.3339225", "license": "CC-BY-4.0", "title": "A Grammar of Sanzhi Dargwa", "versiontype": "first_edition", "publishedAt": "2020-02-25T11:03:06.979103", "authors": [{"name": "Diana Forker"}]}]}
